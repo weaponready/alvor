@@ -1,0 +1,1 @@
+Alvor lives now in Bitbucket: https://bitbucket.org/plas/alvor
